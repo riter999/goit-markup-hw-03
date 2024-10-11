@@ -35,16 +35,8 @@ img {
         align-items: center;
 }
 
-.header {
-        border-bottom: 1px solid #e7e9fc;
 
-     
-}
-header {
-        width: 1158px;
-                padding-left: 15px;
-                padding-right: 15px;
-}
+
 .nav-item {
         display: flex;
         align-items: center;
@@ -169,6 +161,10 @@ color: #404bbf;
 
 header {
         letter-spacing: 0.02em;
+        border-bottom: 1px solid #e7e9fc;
+                width: 1158px;
+                padding-left: 15px;
+                padding-right: 15px;
 }
 
 .button:hover,
