@@ -1,0 +1,214 @@
+body {
+font-family: "Roboto", sans-serif;
+background: #fff;
+color: #434455;
+}
+
+ul, ol {
+    
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+        margin: 0;
+}
+
+ul,
+ol {
+        padding-left: 0;
+        margin: 0;
+}
+
+.header .container {
+        display: flex;
+        align-items: center;
+}
+
+
+.logo {
+font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        letter-spacing: 0.03em;
+        
+}
+
+
+.item-list {
+        background-color: #FFFFFF;
+}
+
+.header-logo .logo-part {
+        color: #2e2f42;
+        letter-spacing: 0.03em;
+}
+
+.footer-logo .logo-part {
+        color: #f4f4fd;
+        letter-spacing: 0.03em;
+}
+
+
+.link-header {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #2e2f42;
+        letter-spacing: 0.02em;
+        margin-right: 0;
+                margin-left: auto;
+              
+}
+.contacts-link:focus {
+        color: #404bbf;
+}
+.contacts-link:hover {
+        color: #404bbf;
+}
+.link-header:hover {
+        color: #404bbf;
+}
+.link-header:focus {
+color: #404bbf;
+}
+
+.section-menu-first {
+        background-color: #2e2f42;
+}
+.section-menu-three {
+        background-color: #F4F4FD;
+        letter-spacing: 0.02em;
+}
+
+
+.contacts-link {
+        font-size: 16px;
+        line-height: 1.5;
+        color: #434455;
+        
+}
+
+
+.contacts-link :hover, :focus {
+        color: #404bbf;
+        
+}
+
+.header {
+        padding-top: 10px;
+                padding-bottom: 10px;
+                border-bottom: solid 1px #ECECEC;
+}
+.address-menu {
+        font-style: normal;
+}
+
+
+.adress-item {
+        font-size: 16px;
+        line-height: 24px;
+        line-height: 150%;
+}
+
+.title-main {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.1;
+        color: #fff;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        
+}
+.button{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #fff;
+        background-color: #4D5AE5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        margin-left: auto;
+                background-color: transparent;
+                margin-right: -5px;
+}
+
+
+header {
+        letter-spacing: 0.02em;
+}
+
+.button:hover,
+.button:focus {
+        background-color: #404BBF;
+}
+
+
+.title-style {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        color: #2e2f42;
+        letter-spacing: 0.02em;
+}
+
+.text-style {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.title-item {
+        font-weight: 700;
+        line-height: 1.11;
+        color: #2e2f42;
+        text-transform: capitalize;
+        font-size: 36px;
+        text-align: center;
+        letter-spacing: 0.02em;
+
+}
+
+
+
+
+
+
+.name-item {
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                color: #2e2f42;
+                letter-spacing: 0.02em
+}
+
+.professi-item {
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                background-color: #FFFFFF;
+}
+
+.rights-item {
+                font-size: 16px;
+                line-height: 1.5;
+                color: #f4f4fd;
+                letter-spacing: 0.02em;
+}
+
+.page-footer {
+        background: #2e2f42;
+}
+
