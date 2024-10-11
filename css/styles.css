@@ -34,7 +34,13 @@ img {
         display: flex;
         align-items: center;
 }
-
+.header {
+        letter-spacing: 0.02em;
+        border-bottom: 1px solid #e7e9fc;
+        width: 1158px;
+        padding-left: 15px;
+        padding-right: 15px;
+}
 
 
 .nav-item {
@@ -159,13 +165,7 @@ color: #404bbf;
 }
 
 
-header {
-        letter-spacing: 0.02em;
-        border-bottom: 1px solid #e7e9fc;
-                width: 1158px;
-                padding-left: 15px;
-                padding-right: 15px;
-}
+
 
 .button:hover,
 .button:focus {
