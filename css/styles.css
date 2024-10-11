@@ -30,6 +30,20 @@ ol {
 img {
         display: block;
 }
+.li-three {
+        display: flex;
+        gap: 24px;
+}
+
+.list-st {
+        width: calc((100% - 72px) / 4);
+        border-radius: 0px 0px 4px 4px;
+}
+
+.profession-class {
+        padding-top: 32px;
+        padding-bottom: 32px;
+}
 
 .visually-hidden {
         position: absolute;
@@ -155,6 +169,8 @@ color: #404bbf;
 .section-menu-three {
         background-color: #F4F4FD;
         letter-spacing: 0.02em;
+        padding-top: 120px;
+        padding-bottom: 120px;
 }
 
 
@@ -244,8 +260,8 @@ color: #404bbf;
         font-size: 36px;
         text-align: center;
         letter-spacing: 0.02em;
-        padding-top: 120px;
-        padding-bottom: 120px;
+        
+        margin-bottom: 72px;
 
 }
 
