@@ -276,7 +276,10 @@ color: #404bbf;
                 font-size: 20px;
                 line-height: 1.2;
                 color: #2e2f42;
-                letter-spacing: 0.02em
+                margin-bottom: 72px;
+                letter-spacing: 0.02em;
+                text-align: center;
+                margin-bottom: 8px;
 }
 
 .professi-item {
