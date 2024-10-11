@@ -138,6 +138,11 @@ color: #404bbf;
         padding-top: 188px;
         padding-bottom: 188px;
 }
+.section-menu {
+        padding-top: 120px;
+        padding-bottom: 120px;
+}
+
 .section-menu-three {
         background-color: #F4F4FD;
         letter-spacing: 0.02em;
