@@ -74,6 +74,8 @@ img {
         margin-right: auto;
         padding-top: 24px;
         padding-bottom: 24px;
+        padding-top: 120px;
+        
         
 }
 .header .container {
@@ -262,7 +264,8 @@ color: #404bbf;
         letter-spacing: 0.02em;
         text-align: center;
         margin-bottom: 72px;
-        margin-bottom: 8px
+        margin-bottom: 8px;
+     
 
 }
 
@@ -301,3 +304,7 @@ color: #404bbf;
         background: #2e2f42;
 }
 
+.section-menu-four {
+        padding-top: 120px;
+        padding-bottom: 120px;
+}
