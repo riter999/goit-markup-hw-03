@@ -42,6 +42,15 @@ img {
         clip: rect(0 0 0 0);
         clip-path: inset(50%);
         margin: -1px;
+        margin-bottom: 8px;
+}
+.ul-second {
+        display: flex;
+        gap: 24px;
+}
+
+.advantage {
+        width: calc((100% - 72px) / 4);
 }
 
 .container {
