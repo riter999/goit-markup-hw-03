@@ -42,7 +42,11 @@ img {
         padding-right: 15px;
      
 }
-
+header {
+        width: 1158px;
+                padding-left: 15px;
+                padding-right: 15px;
+}
 .nav-item {
         display: flex;
         align-items: center;
