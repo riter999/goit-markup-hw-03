@@ -35,12 +35,12 @@ img {
         align-items: center;
 }
 
-header {
-        border-bottom: 1px solid #e7e9fc;
+.header {
+        border-bottom: solid 1px #ECECEC;
         width: 1158px;
-       padding-left: 15px;
+        padding-left: 15px;
         padding-right: 15px;
-        padding: 24px
+     
 }
 
 .nav-item {
@@ -128,11 +128,8 @@ color: #404bbf;
         
 }
 
-.header {
-        padding-top: 10px;
-                padding-bottom: 10px;
-                border-bottom: solid 1px #ECECEC;
-}
+
+
 .address-menu {
         font-style: normal;
 }
