@@ -61,7 +61,8 @@ img {
 .header {
         letter-spacing: 0.02em;
         border-bottom: 1px solid #e7e9fc;
-        
+padding-left: 15px;
+        padding-right: 15px;
 }
 .ul-header {
         display: flex;
