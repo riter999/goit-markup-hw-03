@@ -63,20 +63,19 @@ img {
         gap: 24px;
 }
 
-.advantage {
+.element {
         width: calc((100% - 72px) / 4);
 }
 
 .container {
         width: 1158px;
-        padding: 0 15px 0 15px;
+        padding-left: 15px;
+        padding-right: 15px;
         margin-left: auto;
         margin-right: auto;
         padding-top: 24px;
         padding-bottom: 24px;
         padding-top: 120px;
-        
-        
 }
 .header .container {
         display: flex;
@@ -113,6 +112,7 @@ font-family: "Raleway", sans-serif;
 .item-list {
         background-color: #FFFFFF;
         width: calc((100% - 48px) / 3);
+        border-radius: 0px 0px 4px 4px;
 }
 
 .header-logo .logo-part {
@@ -277,6 +277,7 @@ color: #404bbf;
         flex-wrap: wrap;
         column-gap: 24px;
         row-gap: 48px;
+        width: calc((100% - 48px) / 3);
 }
 
 
