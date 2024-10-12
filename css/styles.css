@@ -339,6 +339,6 @@ color: #404bbf;
         border-top: none;
 
 }
-.li-four {
-        width: calc((100% - 48px) / 3);
+.page-footer {
+        padding: 100px 0;
 }
