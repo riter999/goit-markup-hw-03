@@ -63,10 +63,7 @@ img {
         gap: 24px;
 }
 
-.element {
-        width: calc((100% - 72px) / 4);
-        
-}
+
 
 .container {
         width: 1158px;
@@ -272,7 +269,7 @@ color: #404bbf;
 
 }
 
-.li-four .li-second .li-third .li-first {
+.element {
         display: flex;
         flex-wrap: wrap;
         column-gap: 24px;
