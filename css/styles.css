@@ -120,6 +120,8 @@ font-family: "Raleway", sans-serif;
 .footer-logo .logo-part {
         color: #f4f4fd;
         letter-spacing: 0.03em;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 
 
