@@ -308,3 +308,12 @@ color: #404bbf;
         padding-top: 120px;
         padding-bottom: 120px;
 }
+
+.list-st {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 48px;
+}
+.firstli {
+        width: calc((100% - 48px) / 3);
+}
