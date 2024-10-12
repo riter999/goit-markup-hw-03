@@ -265,6 +265,7 @@ color: #404bbf;
         text-align: center;
         margin-bottom: 72px;
         margin-bottom: 8px;
+        
      
 
 }
@@ -309,11 +310,14 @@ color: #404bbf;
         padding-bottom: 120px;
 }
 
+
+.firstli {
+        width: calc((100% - 48px) / 3);
+}
 .list-st {
         display: flex;
         flex-wrap: wrap;
+        column-gap: 24px;
         row-gap: 48px;
-}
-.firstli {
-        width: calc((100% - 48px) / 3);
+
 }
