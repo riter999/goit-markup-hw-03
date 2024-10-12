@@ -102,7 +102,10 @@ font-family: "Raleway", sans-serif;
         text-transform: uppercase;
         color: #4d5ae5;
         letter-spacing: 0.03em;
-        margin-right: 76px
+        margin-right: 76px;
+        display: inline-block;
+        margin-bottom: 16px;
+
         
 }
 
@@ -120,8 +123,6 @@ font-family: "Raleway", sans-serif;
 .footer-logo .logo-part {
         color: #f4f4fd;
         letter-spacing: 0.03em;
-        display: inline-block;
-        margin-bottom: 16px;
 }
 
 
