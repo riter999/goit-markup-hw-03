@@ -326,7 +326,7 @@ color: #404bbf;
         row-gap: 48px;
 
 }
-.li-four {
+.ul-four {
         padding: 32px 16px;
         border: 1px solid #e7e9fc;
         border-top: none;
@@ -338,5 +338,5 @@ color: #404bbf;
 .div-four {
         padding: 32px 16px;
         border: 1px solid #e7e9fc;
-        
+
 }
