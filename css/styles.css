@@ -115,7 +115,6 @@ font-family: "Raleway", sans-serif;
         width: calc((100% - 48px) / 3);
         border-radius: 0px 0px 4px 4px;
 }
-
 .header-logo .logo-part {
         color: #2e2f42;
         letter-spacing: 0.03em;
@@ -278,7 +277,7 @@ color: #404bbf;
         flex-wrap: wrap;
         column-gap: 24px;
         row-gap: 48px;
-        width: calc((100% - 48px) / 3);
+width: calc((100% - 72px) / 4);
         
 }
 
