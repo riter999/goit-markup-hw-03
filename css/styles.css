@@ -89,7 +89,7 @@ img {
 .nav-item {
         display: flex;
         align-items: center;
-        margin: auto;
+        margin-right: auto;
 }
 .logo {
         font-family: "Raleway", sans-serif;
