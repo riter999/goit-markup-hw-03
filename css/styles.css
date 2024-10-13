@@ -345,6 +345,7 @@ img {
         padding: 100px 0;
 }
 
-.li-four {
+
+.lilist {
         width: calc((100% - 48px) / 3);
 }
