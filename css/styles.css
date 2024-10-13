@@ -94,7 +94,7 @@ img {
         align-items: center;
 }
 .logo {
-font-family: "Raleway", sans-serif;
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
@@ -155,7 +155,7 @@ font-family: "Raleway", sans-serif;
         color: #404bbf;
 }
 .link-header:focus {
-color: #404bbf;
+        color: #404bbf;
 }
 
 .section-menu-first {
@@ -343,4 +343,8 @@ color: #404bbf;
 }
 .page-footer {
         padding: 100px 0;
+}
+
+.li-four {
+        width: calc((100% - 48px) / 3);
 }
