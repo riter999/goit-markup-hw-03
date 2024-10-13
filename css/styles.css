@@ -344,6 +344,3 @@ img {
 .li-four {
  width: calc((100% - 48px) / 3);
 }
-.liitem {
-width: calc((100% - 48px) / 3);
-}
